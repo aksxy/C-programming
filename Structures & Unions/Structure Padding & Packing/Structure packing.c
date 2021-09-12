@@ -22,7 +22,7 @@ main()
 
 // Second method for Structure packing
 
-#include<stdio.h>
+/* #include<stdio.h>
 struct test
 {
     int x;
@@ -32,4 +32,4 @@ struct test
 main()
 {
     printf("%d",sizeof(struct test));
-}
+} */
