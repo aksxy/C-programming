@@ -1,0 +1,3 @@
+hello my name is akshay
+and this Program is Command line Argument
+to Copy file content.
