@@ -147,3 +147,51 @@ EEEEE
 45
 5
 
+22.
+54321
+4321
+321
+21
+1
+
+23.
+A
+B A
+C B A
+D C B A
+E D C B A
+
+24.
+A B C D E
+A B C D
+A B C
+A B
+A
+
+25.
+E D C B A
+E D C B
+E D C
+E D
+E
+
+26.
+A B C D E
+B C D E
+C D E
+D E
+E
+
+27.
+E
+E D
+E D C
+E D C B
+E D C B A
+
+28.
+E D C B A
+D C B A
+C B A
+B A
+A
